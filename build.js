@@ -16,17 +16,19 @@ types.forEach(function (type) {
 src.forEach(function (restaurant) {
   types.forEach(function (type) {
     if (restaurant.hasOwnProperty(type)) {
-      data[type].features.push({
-        type: "Feature",
-        geometry: {
-          type: "Point",
-          coordinates: restaurant.coordinates
-        },
-        properties: {
-          T: restaurant.title,
-          L: restaurant[type]
-        }
-      });
+      for (var i=0; i<restaurant.coordinates.length; i+=2) {
+        data[type].features.push({
+          type: "Feature",
+          geometry: {
+            type: "Point",
+            coordinates: restaurant.coordinates.slice(i, i+2)
+          },
+          properties: {
+            T: restaurant.title,
+            L: restaurant[type]
+          }
+        });
+      }
     }
   });
 });

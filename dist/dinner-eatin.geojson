@@ -42,6 +42,34 @@
         "T": "Texas Longhorn Burgers and Deli",
         "L": "Fajita Burger"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.058164,
+          59.336598
+        ]
+      },
+      "properties": {
+        "T": "La Neta",
+        "L": "Pirata och Campechana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.075629,
+          59.316235
+        ]
+      },
+      "properties": {
+        "T": "La Neta",
+        "L": "Pirata och Campechana"
+      }
     }
   ]
 }

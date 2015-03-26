@@ -45,4 +45,14 @@
   "title": "Taverna Brillo",
   "coordinates": [18.073733, 59.336975],
   "lunch-eatin": "Rödvinsbrässerad Oxkind"
+}, {
+  "title": "La Neta",
+  "coordinates": [18.058164, 59.336598],
+  "lunch-eatin": "Pirata och Campechana",
+  "dinner-eatin": "Pirata och Campechana"
+}, {
+  "title": "La Neta",
+  "coordinates": [18.075629, 59.316235],
+  "lunch-eatin": "Pirata och Campechana",
+  "dinner-eatin": "Pirata och Campechana"
 }]

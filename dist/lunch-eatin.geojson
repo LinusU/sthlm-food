@@ -84,6 +84,20 @@
         "T": "B.A.R.",
         "L": "Röding m. Avokado och Pommes"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.073733,
+          59.336975
+        ]
+      },
+      "properties": {
+        "T": "Taverna Brillo",
+        "L": "Rödvinsbrässerad Oxkind"
+      }
     }
   ]
 }

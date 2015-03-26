@@ -28,6 +28,20 @@
         "T": "Mäster Anders",
         "L": "Sniglar Bourguignon till förrätt"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.035549,
+          59.329983
+        ]
+      },
+      "properties": {
+        "T": "Texas Longhorn Burgers and Deli",
+        "L": "Fajita Burger"
+      }
     }
   ]
 }

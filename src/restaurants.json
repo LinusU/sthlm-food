@@ -36,4 +36,13 @@
   "title": "B.A.R.",
   "coordinates": [18.077092, 59.329944],
   "lunch-eatin": "Röding m. Avokado och Pommes"
+}, {
+  "title": "Texas Longhorn Burgers and Deli",
+  "coordinates": [18.035549, 59.329983],
+  "dinner-eatin": "Fajita Burger",
+  "dinner-takeaway": "Fajita Burger"
+}, {
+  "title": "Taverna Brillo",
+  "coordinates": [18.073733, 59.336975],
+  "lunch-eatin": "Rödvinsbrässerad Oxkind"
 }]

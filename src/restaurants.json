@@ -1,0 +1,39 @@
+[{
+  "title": "Story Hotel",
+  "coordinates": [18.075116, 59.334734],
+  "lunch-takeaway": "Hälsotalrik",
+  "lunch-eatin": "Hälsotalrik"
+}, {
+  "title": "Freshii Stureplan",
+  "coordinates": [18.07454959, 59.33508754],
+  "lunch-takeaway": "Gör din egen het skål"
+}, {
+  "title": "Nybrogatan 38",
+  "coordinates": [18.08006, 59.337925],
+  "lunch-eatin": "Varmrökt lax / Oxfilesallad"
+}, {
+  "title": "Wienercafeét",
+  "coordinates": [18.073094, 59.334276],
+  "lunch-eatin": "Sallad oriental",
+  "dinner-takeaway": "Sallad, be om en från köket"
+}, {
+  "title": "AG",
+  "coordinates": [18.034825, 59.335247],
+  "dinner-eatin": "Köttbricka för hela sällskapet"
+}, {
+  "title": "Mäster Anders",
+  "coordinates": [18.044865, 59.329075],
+  "dinner-eatin": "Sniglar Bourguignon till förrätt"
+}, {
+  "title": "Gute",
+  "coordinates": [18.069636, 59.336742],
+  "lunch-eatin": "Helgrillad Fläskkarré"
+}, {
+  "title": "EAT",
+  "coordinates": [18.069311, 59.334703],
+  "lunch-eatin": "￼￼￼Black Pepper Beef"
+}, {
+  "title": "B.A.R.",
+  "coordinates": [18.077092, 59.329944],
+  "lunch-eatin": "Röding m. Avokado och Pommes"
+}]

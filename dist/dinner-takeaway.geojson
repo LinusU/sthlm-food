@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.073094,
+          59.334276
+        ]
+      },
+      "properties": {
+        "T": "Wienercafeét",
+        "L": "Sallad, be om en från köket"
+      }
+    }
+  ]
+}

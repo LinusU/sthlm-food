@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.075116,
+          59.334734
+        ]
+      },
+      "properties": {
+        "T": "Story Hotel",
+        "L": "Hälsotalrik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07454959,
+          59.33508754
+        ]
+      },
+      "properties": {
+        "T": "Freshii Stureplan",
+        "L": "Gör din egen het skål"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.034825,
+          59.335247
+        ]
+      },
+      "properties": {
+        "T": "AG",
+        "L": "Köttbricka för hela sällskapet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.044865,
+          59.329075
+        ]
+      },
+      "properties": {
+        "T": "Mäster Anders",
+        "L": "Sniglar Bourguignon till förrätt"
+      }
+    }
+  ]
+}

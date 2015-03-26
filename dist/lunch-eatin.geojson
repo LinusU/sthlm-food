@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.075116,
+          59.334734
+        ]
+      },
+      "properties": {
+        "T": "Story Hotel",
+        "L": "Hälsotalrik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.08006,
+          59.337925
+        ]
+      },
+      "properties": {
+        "T": "Nybrogatan 38",
+        "L": "Varmrökt lax / Oxfilesallad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.073094,
+          59.334276
+        ]
+      },
+      "properties": {
+        "T": "Wienercafeét",
+        "L": "Sallad oriental"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069636,
+          59.336742
+        ]
+      },
+      "properties": {
+        "T": "Gute",
+        "L": "Helgrillad Fläskkarré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069311,
+          59.334703
+        ]
+      },
+      "properties": {
+        "T": "EAT",
+        "L": "￼￼￼Black Pepper Beef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.077092,
+          59.329944
+        ]
+      },
+      "properties": {
+        "T": "B.A.R.",
+        "L": "Röding m. Avokado och Pommes"
+      }
+    }
+  ]
+}

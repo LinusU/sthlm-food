@@ -50,4 +50,11 @@
   "coordinates": [18.058164, 59.336598, 18.075629, 59.316235],
   "lunch-eatin": "Pirata och Campechana",
   "dinner-eatin": "Pirata och Campechana"
+}, {
+  "title": "Vapiano",
+  "coordinates": [18.052157, 59.332533, 18.074111, 59.337406, 18.067894, 59.323514, 18.073744, 59.31213],
+  "lunch-eatin": "Filetto di Manzo con Vino Rosso",
+  "lunch-takeaway": "Filetto di Manzo con Vino Rosso",
+  "dinner-eatin": "Filetto di Manzo con Vino Rosso",
+  "dinner-takeaway": "Filetto di Manzo con Vino Rosso"
 }]

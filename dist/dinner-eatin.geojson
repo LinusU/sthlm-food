@@ -70,6 +70,62 @@
         "T": "La Neta",
         "L": "Pirata och Campechana"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.052157,
+          59.332533
+        ]
+      },
+      "properties": {
+        "T": "Vapiano",
+        "L": "Filetto di Manzo con Vino Rosso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.074111,
+          59.337406
+        ]
+      },
+      "properties": {
+        "T": "Vapiano",
+        "L": "Filetto di Manzo con Vino Rosso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.067894,
+          59.323514
+        ]
+      },
+      "properties": {
+        "T": "Vapiano",
+        "L": "Filetto di Manzo con Vino Rosso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.073744,
+          59.31213
+        ]
+      },
+      "properties": {
+        "T": "Vapiano",
+        "L": "Filetto di Manzo con Vino Rosso"
+      }
     }
   ]
 }

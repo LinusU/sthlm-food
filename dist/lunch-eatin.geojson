@@ -182,6 +182,20 @@
         "T": "Vapiano",
         "L": "Filetto di Manzo con Vino Rosso"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.056069,
+          59.338654
+        ]
+      },
+      "properties": {
+        "T": "Köttbaren",
+        "L": "Dagens"
+      }
     }
   ]
 }

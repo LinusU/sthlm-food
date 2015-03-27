@@ -34,6 +34,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.0699295,
+          59.3345848
+        ]
+      },
+      "properties": {
+        "T": "EAT Market",
+        "L": "Varierar, välj från dagens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.052157,
           59.332533
         ]

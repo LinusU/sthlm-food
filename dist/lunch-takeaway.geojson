@@ -48,6 +48,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.077092,
+          59.329944
+        ]
+      },
+      "properties": {
+        "T": "B.A.R.",
+        "L": "Frasig Fisk lr. dagens husman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.052157,
           59.332533
         ]

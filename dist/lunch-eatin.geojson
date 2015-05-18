@@ -196,6 +196,20 @@
         "T": "Köttbaren",
         "L": "Dagens"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.076813,
+          59.333754
+        ]
+      },
+      "properties": {
+        "T": "Frippes",
+        "L": "Dagens"
+      }
     }
   ]
 }
